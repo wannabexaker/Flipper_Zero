@@ -1,0 +1,28 @@
+# Build and editor artifacts
+**/.venv/
+**/.vscode/
+**/dist/debug/
+**/*.elf
+**/*.map
+**/*.lst
+**/*.o
+**/*.d
+**/*.su
+**/compile_commands.json
+**/.sconsign.dblite
+
+# Local archives and backups
+*.tgz
+*.zip
+
+# Ignore unrelated local collections already present in this workspace
+BadUSB-Files-For-FlipperZero-main/
+ch340_uart_terminal/
+Flipper-main/
+flipper-zero-evil-portal-main/
+Flipper-Zero-NFC-Trolls-main/
+Flipper-Zero-Scripts-main/
+Flipper_Zero_Badusb_hack5_payloads-main/
+FZ_MARAUDER/
+subghz/
+Zips/
