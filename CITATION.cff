@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Flipper_Zero"
+abstract: "Flipper Zero resources, apps, and project files"
+authors:
+  - name: "Ioannis"
+    alias: "wannabexaker"
+    website: "https://github.com/wannabexaker"
+repository-code: "https://github.com/wannabexaker/Flipper_Zero"
+url: "https://github.com/wannabexaker/Flipper_Zero"
+license: Apache-2.0
+date-released: "2026-03-12"
+keywords:
+  - "flipper-zero, embedded, security"
+  - "embedded, security"
